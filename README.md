@@ -1,1 +1,1 @@
-# Data-structure-22
+#include <stdio.h>Int main(){Int queue[5]={1,2,3,4};Int front=0,rear=4;Printf(“BFS City Visit Order:\n”);While(front<rear){Printf(“City %d\n”,queue[front]);Front++;}Return 0;}OUTPUT BFS City Visit Order:City 1City 2City 3City 4
